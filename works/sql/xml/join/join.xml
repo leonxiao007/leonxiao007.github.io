@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <content txt="幼儿园主讲师1"/>
+    <content txt="幼儿园主讲师2"/>
+    <content txt="幼儿园主讲师3"/>
+    <content txt="幼儿园主讲师4"/>
+    <content txt="幼儿园主讲师5"/>
+    <send url="http://192.168.1.104/e/web/load.php"/>
+</data>

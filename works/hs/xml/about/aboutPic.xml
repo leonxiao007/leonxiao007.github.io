@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <pic s_url="pic/index/s1.jpg" b_url="pic/about/b1.jpg" txt="建构室">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：51人   设施：口口口、口口口、口口口]]>
+    </pic>
+    
+    <pic s_url="pic/index/s2.jpg" b_url="pic/about/b2.jpg" txt="卫生间">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：52人   设施：口口口、口口口、口口口]]>
+    </pic>
+    <pic s_url="pic/index/s3.jpg" b_url="pic/about/b3.jpg" txt="教室黄色">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：53人   设施：口口口、口口口、口口口]]>
+    </pic>
+    
+    <pic s_url="pic/index/s4.jpg" b_url="pic/about/b4.jpg" txt="走廊">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：54人   设施：口口口、口口口、口口口]]>
+    </pic>
+
+    <pic s_url="pic/index/s1.jpg" b_url="pic/about/b1.jpg" txt="建构室">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：55人   设施：口口口、口口口、口口口]]>
+    </pic>
+    
+    <pic s_url="pic/index/s2.jpg" b_url="pic/about/b2.jpg" txt="卫生间">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：56人   设施：口口口、口口口、口口口]]>
+    </pic>
+    
+    <pic s_url="pic/index/s3.jpg" b_url="pic/about/b3.jpg" txt="教室黄色">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：57人   设施：口口口、口口口、口口口]]>
+    </pic>
+    
+    <pic s_url="pic/index/s4.jpg" b_url="pic/about/b4.jpg" txt="走廊">
+        <![CDATA[所属：常州园   面积：口口口口M2    可容纳人数：58人   设施：口口口、口口口、口口口]]>
+    </pic>
+    
+</data>

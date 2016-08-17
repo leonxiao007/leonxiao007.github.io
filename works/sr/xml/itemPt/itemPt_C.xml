@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<txt>
+    <text txt="交通图">
+        <pic s_img ="pic/itemPt/itemPt_C/small1.jpg" img="pic/itemPt/itemPt_C/big1.jpg" txt="这儿是项目名称1"></pic>
+        <pic s_img ="pic/itemPt/itemPt_C/small2.jpg" img="pic/itemPt/itemPt_C/big2.jpg" txt="这儿是项目名称2"></pic>
+        <pic s_img ="pic/itemPt/itemPt_C/small3.jpg" img="pic/itemPt/itemPt_C/big3.jpg" txt="这儿是项目名称3"></pic>
+        <pic s_img ="pic/itemPt/itemPt_C/small1.jpg" img="pic/itemPt/itemPt_C/big1.jpg" txt="这儿是项目名称1"></pic>
+        <pic s_img ="pic/itemPt/itemPt_C/small2.jpg" img="pic/itemPt/itemPt_C/big2.jpg" txt="这儿是项目名称2"></pic>
+        <pic s_img ="pic/itemPt/itemPt_C/small3.jpg" img="pic/itemPt/itemPt_C/big3.jpg" txt="这儿是项目名称3"></pic>
+    </text>
+</txt>

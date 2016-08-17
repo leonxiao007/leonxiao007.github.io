@@ -1,0 +1,46 @@
+<?xml version="1.0"?><menu>
+
+   <menuUrl  url="about" title='走进居上'>
+        <navUrl  url="about/wenhua" title='企业简介'></navUrl>
+		<navUrl  url="about/gsjj" title='形象展示'></navUrl>
+		<navUrl  url="about/rongyu" title='人才招聘'></navUrl>
+		<navUrl  url="about/contactus" title='联系我们'></navUrl>
+	</menuUrl>
+   <menuUrl  url="news" title="新闻动态">
+        <navUrl  url="news/xingyezixun" title="行业资讯"></navUrl>
+		<navUrl  url="news/jushangdongtai" title="居尚动态"></navUrl>
+		<navUrl  url="news/huodongzhuanlan" title="活动专栏"></navUrl>
+   </menuUrl>
+   <menuUrl  url="yangbanjianshang" title="样板鉴赏">
+        <navUrl  url="yangbanjianshang/jingpinjianshang" title="精品鉴赏"></navUrl>
+		<navUrl  url="yangbanjianshang/jz" title="家装样板"></navUrl>
+		<navUrl  url="yangbanjianshang/gongzhuangyangban" title="工装样板"></navUrl>
+   </menuUrl>
+   <menuUrl  url="cailiaozhongxin" title="材料中心">
+   		<navUrl url="cailiaozhongxin/chugui" title="橱柜"/>
+		<navUrl url="cailiaozhongxin/cizhuan" title="瓷器"/>
+		<navUrl url="cailiaozhongxin/mumen" title="木门"/>
+		<navUrl url="cailiaozhongxin/jieju" title="洁具"/>
+		<navUrl url="cailiaozhongxin/diban" title="地板"/>
+		<navUrl url="cailiaozhongxin/tuliao" title="涂料"/>
+		<navUrl url="cailiaozhongxin/chuanglian" title="窗帘"/>
+		<navUrl url="cailiaozhongxin/guitidingzuo" title="柜体定做"/>
+   </menuUrl>
+
+   <menuUrl  url="shejituandui" title="设计团队">
+        <navUrl  url="shejituandui" title="设计团队"></navUrl>
+   </menuUrl>
+   <menuUrl  url="shigonggongyi" title="施工工艺">
+        <navUrl  url="shigonggongyi/fuwuzongzhi" title="服务宗旨"></navUrl>
+		<navUrl  url="shigonggongyi/zhuangxiuliucheng" title="装修流程"></navUrl>
+   </menuUrl>
+   <menuUrl  url="wendaojujia" title="问道居家">
+        <navUrl  url="wendaojujia/zhuangxiuxueyuan" title="装修学院"></navUrl>
+		<navUrl  url="wendaojujia/jujiafengshui" title="居家风水"></navUrl>
+   </menuUrl>
+   <menuUrl  url="online" title="居尚在线">
+        <navUrl  url="online/cuxiaohuodong" title="促销活动"></navUrl>
+		<navUrl  url="e/tool/feedback/?bid=2" title="网上预算"></navUrl>
+		<navUrl  url="e/tool/feedback/?bid=1" title="网上报名"></navUrl>
+   </menuUrl>
+</menu>

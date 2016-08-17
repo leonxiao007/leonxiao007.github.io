@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<txt>
+    <text txt="左下角所有图片">
+        <pic pic ="pic/pic1.jpg" txt="网上套餐1" url="xysliang1.com"></pic>
+        <pic pic ="pic/pic2.jpg" txt="网上套餐2" url="xysliang2.com"></pic>
+        <pic pic ="pic/pic3.jpg" txt="网上套餐3" url="xysliang3.com"></pic>
+    </text>
+</txt>

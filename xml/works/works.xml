@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <p1><!--full flash-->
+        <pic s_url="pic/works/1.jpg" link="http://yzxmc25.seo2.hansawell.net"/>
+        <pic s_url="pic/works/2.jpg" link="http://www.jintaibmw.com/"/>
+        <pic s_url="pic/works/hy.jpg" link="http://www.hyjssd.com"/><!--华宇-->
+        <pic s_url="pic/works/4.jpg" link="http://zxfcdmt578.seo2.hansawell.net/"/><!--上青城-->
+        <pic s_url="pic/works/5.jpg" link="http://www.xyhonda.com/"/><!--广汽-->
+        <pic s_url="pic/works/6.jpg" link="http://www.dydfweb.com/works/sr/index.html"/><!--世永国际-->
+        <pic s_url="pic/works/7.jpg" link="http://www.dydfweb.com/works/fq/index.html"/>
+        <pic s_url="pic/works/8.jpg" link="http://www.yunqigu.com/spatialAppreclation/index.html"/>
+    </p1>
+    
+    <p2><!--full flash-->
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/3.jpg" link="http://www.dydfweb.com/works/hs/index.html"/><!--恒上-->
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/12.jpg" link="http://www.dydfweb.com/works/sql/index.html"/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/11.jpg" link="http://www.dydfweb.com/works/zs/index.html"/><!--居尚http://www.cdjszs.com/-->
+        <pic s_url="pic/works/10.jpg" link="http://www.hongdisi.cn/"/>
+        <pic s_url="pic/works/9.jpg" link="http://www.dydfweb.com/works/dz/index.html"/><!--大筑-->
+    </p2>
+    
+    <p3><!--web design-->
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/sj_3.jpg" link="sj">
+            <s_b s="pic/works/s_1.jpg" b="pic/works/b3_1.jpg" />
+            <s_b s="pic/works/s_2.jpg" b="pic/works/b3_2.jpg" />
+            <s_b s="pic/works/s_3.jpg" b="pic/works/b3_3.jpg" />
+            <s_b s="pic/works/s_4.jpg" b="pic/works/b3_4.jpg" />
+            <s_b s="pic/works/s_5.jpg" b="pic/works/b3_5.jpg" />
+            <s_b s="pic/works/s_6.jpg" b="pic/works/b3_6.jpg" />
+        </pic>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/sj_2.jpg" link="http://www.dydfweb.com/pic/works/b2.jpg"/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/sj_1.jpg" link="http://www.dydfweb.com/pic/works/b1.jpg"/>
+    </p3>
+    
+    <p4><!--comprehensive-->
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/c_1.jpg" link="http://www.dydfweb.com/works/dqc/index.html"/>
+        <pic s_url="pic/works/n.jpg" link=""/>
+        <pic s_url="pic/works/c_2.jpg" link="http://www.dydfweb.com/works/td/index.html"/>
+    </p4>
+</data>

@@ -1,0 +1,14 @@
+<%
+get_name=request("name_txt")
+get_tel=request.Form("sex_txt")
+get_msg=request.Form("tel_txt")
+get_name=request("lp_txt")
+get_tel=request.Form("jzmj_txt")
+get_msg=request.Form("gtmj_txt")
+get_name=request("zsmj_txt")
+get_tel=request.Form("tc_txt")
+get_msg=request.Form("sjs_txt")
+get_tel=request.Form("yc_txt")
+get_msg=request.Form("price")
+Response.Write("&load_txt=true&")
+%>

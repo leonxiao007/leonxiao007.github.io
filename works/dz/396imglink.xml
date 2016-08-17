@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<URL>
+	<Image_Information>
+		<img_name>作品名称1</img_name>
+                <img_link>"ry.swf"</img_link>
+		<thumb_image>pic/396/big1.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name>作品名称2</img_name>
+                <img_link>"ry.swf"</img_link>
+		<thumb_image>pic/396/big2.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name>作品名称3</img_name>
+		<img_link>"ry.swf"</img_link>
+		<thumb_image>pic/396/big3.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name>作品名称4</img_name>
+		<img_link>"ry.swf"</img_link>
+		<thumb_image>pic/396/big4.jpg</thumb_image>
+	</Image_Information>
+<Image_Information>
+		<img_name>作品名称5</img_name>
+		<img_link>http://5</img_link>
+		<thumb_image>pic/396/big5.jpg</thumb_image>
+        </Image_Information>
+<Image_Information>
+		<img_name>作品名称6</img_name>
+		<img_link>http://6</img_link>
+		<thumb_image>pic/396/big6.jpg</thumb_image>
+</Image_Information>
+
+	
+</URL>

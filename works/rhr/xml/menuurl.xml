@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<menu>
+	 <news  url="index_content.swf"></news>
+   <news  url="about.swf"></news>
+   <news  url="news.swf"></news>
+   <news  url="products.swf"></news>
+   <news  url="sales_network.swf"></news>
+   <news  url="customer_service.swf"></news>
+   <news  url="message.swf"></news>
+   <news  url="contact.swf"></news>
+</menu>

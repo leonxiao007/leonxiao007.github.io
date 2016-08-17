@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <indexUrl url="index.html"/>
+    <menuList><!--项目总介-->
+        <list url="about1.swf"/>
+        <list url="about2.swf"/>
+        <list url="about3.swf"/>
+        <list url="about4.swf"/>
+    </menuList>
+    
+    <menuList><!--五大产品-->
+        <list url="pro1.swf"/>
+        <list url="pro2.swf"/>
+        <list url="pro3.swf"/>
+        <list url="pro4.swf"/>
+        <list url="pro5.swf"/>
+    </menuList>
+    
+    <menuList><!--区位交通-->
+        <list url="traffic1.swf"/>
+        <list url="traffic2.swf"/>
+        <list url="traffic3.swf"/>
+        <list url="traffic4.swf"/>
+        <list url="traffic5.swf"/>
+    </menuList>
+    
+    <menuList><!--合作团队-->
+        <list url="team1.swf"/>
+        <list url="team2.swf"/>
+        <list url="team3.swf"/>
+        <list url="team4.swf"/>
+        <list url="team5.swf"/>
+    </menuList>
+    
+    <menuList url="news.swf"><!--项目动态-->
+        <list url=""/>
+        
+    </menuList>
+    
+    <menuList url="manage.swf"><!--物业管理-->
+        <list url=""/>
+    </menuList>
+    
+    <menuList><!--商业招商-->
+        <list url="zs1.swf"/>
+        <list url="zs2.swf"/>
+        <list url="zs3.swf"/>
+        <list url="zs4.swf"/>
+    </menuList>
+</data>
